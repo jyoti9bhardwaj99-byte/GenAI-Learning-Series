@@ -1,0 +1,8 @@
+env/
+.venv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+*.db
+notebooks/vector_db/
